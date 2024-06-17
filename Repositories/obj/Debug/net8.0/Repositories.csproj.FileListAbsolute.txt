@@ -1,0 +1,15 @@
+/Users/yusufakyuz/RiderProjects/bsStoreApp/Repositories/bin/Debug/net8.0/Repositories.deps.json
+/Users/yusufakyuz/RiderProjects/bsStoreApp/Repositories/bin/Debug/net8.0/Repositories.dll
+/Users/yusufakyuz/RiderProjects/bsStoreApp/Repositories/bin/Debug/net8.0/Repositories.pdb
+/Users/yusufakyuz/RiderProjects/bsStoreApp/Repositories/bin/Debug/net8.0/Entities.dll
+/Users/yusufakyuz/RiderProjects/bsStoreApp/Repositories/bin/Debug/net8.0/Entities.pdb
+/Users/yusufakyuz/RiderProjects/bsStoreApp/Repositories/obj/Debug/net8.0/Repositories.csproj.AssemblyReference.cache
+/Users/yusufakyuz/RiderProjects/bsStoreApp/Repositories/obj/Debug/net8.0/Repositories.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusufakyuz/RiderProjects/bsStoreApp/Repositories/obj/Debug/net8.0/Repositories.AssemblyInfoInputs.cache
+/Users/yusufakyuz/RiderProjects/bsStoreApp/Repositories/obj/Debug/net8.0/Repositories.AssemblyInfo.cs
+/Users/yusufakyuz/RiderProjects/bsStoreApp/Repositories/obj/Debug/net8.0/Repositories.csproj.CoreCompileInputs.cache
+/Users/yusufakyuz/RiderProjects/bsStoreApp/Repositories/obj/Debug/net8.0/Reposito.787EC4B2.Up2Date
+/Users/yusufakyuz/RiderProjects/bsStoreApp/Repositories/obj/Debug/net8.0/Repositories.dll
+/Users/yusufakyuz/RiderProjects/bsStoreApp/Repositories/obj/Debug/net8.0/refint/Repositories.dll
+/Users/yusufakyuz/RiderProjects/bsStoreApp/Repositories/obj/Debug/net8.0/Repositories.pdb
+/Users/yusufakyuz/RiderProjects/bsStoreApp/Repositories/obj/Debug/net8.0/ref/Repositories.dll
