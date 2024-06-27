@@ -15,6 +15,8 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.6",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.6",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.2",
+          "NLog": "5.3.2",
+          "NLog.Extensions.Logging": "5.3.11",
           "Presentation": "1.0.0",
           "Repositories": "1.0.0",
           "Services": "1.0.0",
@@ -1698,6 +1700,27 @@
           }
         }
       },
+      "NLog/5.3.2": {
+        "runtime": {
+          "lib/netstandard2.0/NLog.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.3.2.2526"
+          }
+        }
+      },
+      "NLog.Extensions.Logging/5.3.11": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "8.0.0",
+          "Microsoft.Extensions.Logging": "8.0.0",
+          "NLog": "5.3.2"
+        },
+        "runtime": {
+          "lib/net8.0/NLog.Extensions.Logging.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.3.11.526"
+          }
+        }
+      },
       "Npgsql/8.0.3": {
         "dependencies": {
           "Microsoft.Extensions.Logging.Abstractions": "8.0.0"
@@ -2159,6 +2182,7 @@
       "Services/1.0.0": {
         "dependencies": {
           "Entities": "1.0.0",
+          "NLog.Extensions.Logging": "5.3.11",
           "Repositories": "1.0.0"
         },
         "runtime": {
@@ -3131,6 +3155,20 @@
       "sha512": "sha512-QYFyxhaABwmq3p/21VrZNYvCg3DaEoN/wUuw5nmfAf0X3HLjgupwhkEWdgfb9nvGAUIv3osmZoD3kKl4jxEmYQ==",
       "path": "newtonsoft.json.bson/1.0.2",
       "hashPath": "newtonsoft.json.bson.1.0.2.nupkg.sha512"
+    },
+    "NLog/5.3.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cQRQZuDMjSyMe9EQBnI9v55YAMMz8GAfFd6fFJ6tc/kXnG7Hze8p1I8MgvWSBG6E36wA8vSxRrlm8uSIG+SENg==",
+      "path": "nlog/5.3.2",
+      "hashPath": "nlog.5.3.2.nupkg.sha512"
+    },
+    "NLog.Extensions.Logging/5.3.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-C3Rg6jmOkM7fNBX9jAoVlYzOwsrxdQzl9sYDK1EpRc7RCdjgs8FC9ivJCSsCu/m4l0w83xiTNz7Y1CzmD3BwZg==",
+      "path": "nlog.extensions.logging/5.3.11",
+      "hashPath": "nlog.extensions.logging.5.3.11.nupkg.sha512"
     },
     "Npgsql/8.0.3": {
       "type": "package",

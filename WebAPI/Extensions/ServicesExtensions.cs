@@ -24,4 +24,10 @@ public static class ServicesExtensions
     {
         services.AddScoped<IServiceManager, ServiceManager>();
     }
+
+    public static void ConfigureLoggerService(this IServiceCollection services)
+    {
+        //AddSingleton ile nesnenin tek bir defa oluşması sağlanmış olur
+        services.AddSingleton<ILoggerService, LoggerManager>();
+    }
 }

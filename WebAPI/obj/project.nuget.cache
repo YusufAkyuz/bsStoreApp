@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "G0dyadrCfATnugGAFLE11P00cxdF/yL0G9fJNPpn3y1F2oMr3C1d8VXzFLbUw+4MOZSiA5boQBrjybWgoPP0Vg==",
+  "dgSpecHash": "M71wctpTxg5w69IiJzlWdLi3TO2EzyJwiM45sgUiezAvwl1v4SQz5oxCoTnZNB2Kp5GYOw5NA9+55Xk3bRIbbA==",
   "success": true,
   "projectFilePath": "/Users/yusufakyuz/RiderProjects/bsStoreApp/WebAPI/WebAPI.csproj",
   "expectedPackageFiles": [
@@ -141,6 +141,8 @@
     "/Users/yusufakyuz/.nuget/packages/mono.texttemplating/2.3.1/mono.texttemplating.2.3.1.nupkg.sha512",
     "/Users/yusufakyuz/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
     "/Users/yusufakyuz/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "/Users/yusufakyuz/.nuget/packages/nlog/5.3.2/nlog.5.3.2.nupkg.sha512",
+    "/Users/yusufakyuz/.nuget/packages/nlog.extensions.logging/5.3.11/nlog.extensions.logging.5.3.11.nupkg.sha512",
     "/Users/yusufakyuz/.nuget/packages/npgsql/8.0.3/npgsql.8.0.3.nupkg.sha512",
     "/Users/yusufakyuz/.nuget/packages/npgsql.entityframeworkcore.postgresql/8.0.4/npgsql.entityframeworkcore.postgresql.8.0.4.nupkg.sha512",
     "/Users/yusufakyuz/.nuget/packages/nuget.common/6.9.1/nuget.common.6.9.1.nupkg.sha512",

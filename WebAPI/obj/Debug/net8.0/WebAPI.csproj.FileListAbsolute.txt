@@ -265,3 +265,6 @@
 /Users/yusufakyuz/RiderProjects/bsStoreApp/WebAPI/obj/Debug/net8.0/WebAPI.sourcelink.json
 /Users/yusufakyuz/RiderProjects/bsStoreApp/WebAPI/bin/Debug/net8.0/Presentation.dll
 /Users/yusufakyuz/RiderProjects/bsStoreApp/WebAPI/bin/Debug/net8.0/Presentation.pdb
+/Users/yusufakyuz/RiderProjects/bsStoreApp/WebAPI/bin/Debug/net8.0/nlog.config
+/Users/yusufakyuz/RiderProjects/bsStoreApp/WebAPI/bin/Debug/net8.0/NLog.dll
+/Users/yusufakyuz/RiderProjects/bsStoreApp/WebAPI/bin/Debug/net8.0/NLog.Extensions.Logging.dll
