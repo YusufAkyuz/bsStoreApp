@@ -260,3 +260,8 @@
 /Users/yusufakyuz/RiderProjects/bsStoreApp/WebAPI/bin/Debug/net8.0/Entities.pdb
 /Users/yusufakyuz/RiderProjects/bsStoreApp/WebAPI/bin/Debug/net8.0/Repositories.dll
 /Users/yusufakyuz/RiderProjects/bsStoreApp/WebAPI/bin/Debug/net8.0/Repositories.pdb
+/Users/yusufakyuz/RiderProjects/bsStoreApp/WebAPI/bin/Debug/net8.0/Services.dll
+/Users/yusufakyuz/RiderProjects/bsStoreApp/WebAPI/bin/Debug/net8.0/Services.pdb
+/Users/yusufakyuz/RiderProjects/bsStoreApp/WebAPI/obj/Debug/net8.0/WebAPI.sourcelink.json
+/Users/yusufakyuz/RiderProjects/bsStoreApp/WebAPI/bin/Debug/net8.0/Presentation.dll
+/Users/yusufakyuz/RiderProjects/bsStoreApp/WebAPI/bin/Debug/net8.0/Presentation.pdb

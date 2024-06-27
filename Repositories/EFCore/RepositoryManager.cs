@@ -8,6 +8,7 @@ public class RepositoryManager : IRepositoryManager
     private readonly RepositoryContext _context;
     
     //Burda Lazyloading yaptık yani nesneye ihtiyaç duyulduğunda ancak create edilsin dedik
+    
     private readonly Lazy<IBookRepository> _bookRepository;
 
     public RepositoryManager(RepositoryContext context)

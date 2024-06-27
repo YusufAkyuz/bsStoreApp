@@ -7,9 +7,13 @@ namespace Repositories.EFCore;
 public abstract class RepositoryBase<T> : IRepositoryBase<T> where T : class
 {
     
-    //Veriler Üzerinde İşlem Yapmak için Bir Context'e ihitiyacımız var
+    //Veriler Üzerinde İşlem Yapmak için Bir Context'e ihitiyacımız var bu context daha sonra book repositorydekiyle
+    //  aynı context olması adına burda da seni kullanacak bir sınıf oluşacak ve ondada bir context olacak
+    //  o sınıfın kullandığu context'i alıp öyle CRUD işlemlerini gerçekleştir diyoruz
+    
+    
     protected readonly RepositoryContext _context;
-
+    
     public RepositoryBase(RepositoryContext context)
     {
         _context = context;

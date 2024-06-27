@@ -13,3 +13,4 @@
 /Users/yusufakyuz/RiderProjects/bsStoreApp/Repositories/obj/Debug/net8.0/refint/Repositories.dll
 /Users/yusufakyuz/RiderProjects/bsStoreApp/Repositories/obj/Debug/net8.0/Repositories.pdb
 /Users/yusufakyuz/RiderProjects/bsStoreApp/Repositories/obj/Debug/net8.0/ref/Repositories.dll
+/Users/yusufakyuz/RiderProjects/bsStoreApp/Repositories/obj/Debug/net8.0/Repositories.sourcelink.json
