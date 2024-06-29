@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "M71wctpTxg5w69IiJzlWdLi3TO2EzyJwiM45sgUiezAvwl1v4SQz5oxCoTnZNB2Kp5GYOw5NA9+55Xk3bRIbbA==",
+  "dgSpecHash": "c9ZGmiKEVupAuSWIequ1vQVqrFQOWkqQkLlxZLYyI5EH7gQw3yYyJE3eE3RCewEuiFaaQ2U6cU+x76UQRmxkUw==",
   "success": true,
   "projectFilePath": "/Users/yusufakyuz/RiderProjects/bsStoreApp/WebAPI/WebAPI.csproj",
   "expectedPackageFiles": [
+    "/Users/yusufakyuz/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/Users/yusufakyuz/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "/Users/yusufakyuz/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/Users/yusufakyuz/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",
     "/Users/yusufakyuz/.nuget/packages/humanizer/2.14.1/humanizer.2.14.1.nupkg.sha512",

@@ -268,3 +268,5 @@
 /Users/yusufakyuz/RiderProjects/bsStoreApp/WebAPI/bin/Debug/net8.0/nlog.config
 /Users/yusufakyuz/RiderProjects/bsStoreApp/WebAPI/bin/Debug/net8.0/NLog.dll
 /Users/yusufakyuz/RiderProjects/bsStoreApp/WebAPI/bin/Debug/net8.0/NLog.Extensions.Logging.dll
+/Users/yusufakyuz/RiderProjects/bsStoreApp/WebAPI/bin/Debug/net8.0/AutoMapper.dll
+/Users/yusufakyuz/RiderProjects/bsStoreApp/WebAPI/bin/Debug/net8.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll

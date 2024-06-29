@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using Presentation.ActionFilters;
 using Repositories.Contracts;
 using Repositories.EFCore;
 using Services;
@@ -29,5 +30,11 @@ public static class ServicesExtensions
     {
         //AddSingleton ile nesnenin tek bir defa oluşması sağlanmış olur
         services.AddSingleton<ILoggerService, LoggerManager>();
+    }
+
+    public static void ConfigureActionFilters(this IServiceCollection services)
+    {
+        services.AddScoped<ValidationAttributeFilter>();
+        services.AddScoped<LogFilterAttribute>();
     }
 }
